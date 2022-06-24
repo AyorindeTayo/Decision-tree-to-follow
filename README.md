@@ -1,1 +1,1 @@
-# Decision-tree-to-folow
+# Decision-tree-to-follow
